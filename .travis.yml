@@ -1,8 +1,1 @@
 language: java
-jdk:
-  - oraclejdk8
-script: mvn clean install
-
-notifications:
-  email:
-    - hientvo@kms-technology.com
